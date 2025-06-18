@@ -2,15 +2,15 @@
 ## 📄 Certifications
 
 ### C1 Advanced English Certificate  
-[![View Certificate](https://img.shields.io/badge/View%20PDF-English%20Certificate-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([./English-certificate_C1-Advanced-English-Level_elfreixo.pdf](https://pdfhost.io/edit?doc=9a2f5bfc-a7fb-4e65-b00b-fafdee1ef799
-))
+[![English Certificate - C1](https://i.ibb.co/dFBqqGj/English-certificate-C1-Advanced-English-Level-elfreixo.jpg)](certifications/English-certificate_C1-Advanced-English-Level_elfreixo.pdf)
+
+[![View Certificate](https://img.shields.io/badge/View%20PDF-English%20Certificate-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](certifications/English-certificate_C1-Advanced-English-Level_elfreixo.pdf)
 
 ---
 
-## 📊 Reports & Dashboards
+### Power BI Sample Report  
+[![View Report](https://img.shields.io/badge/View%20PDF-Power%20BI%20Dashboard-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](certifications/powerbi_report.pdf)
 
-### Power BI Sample Report (PDF)  
-[![View PDF](https://img.shields.io/badge/View%20PDF-Power%20BI%20Dashboard-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://pdfhost.io/v/h3rt5fJvnJ_powerbi)
 
 ---
 
