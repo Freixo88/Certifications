@@ -2,7 +2,8 @@
 ## 📄 Certifications
 
 ### C1 Advanced English Certificate  
-[![View Certificate](https://img.shields.io/badge/View%20PDF-English%20Certificate-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./English-certificate_C1-Advanced-English-Level_elfreixo.pdf)
+[![View Certificate](https://img.shields.io/badge/View%20PDF-English%20Certificate-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([./English-certificate_C1-Advanced-English-Level_elfreixo.pdf](https://pdfhost.io/edit?doc=9a2f5bfc-a7fb-4e65-b00b-fafdee1ef799
+))
 
 ---
 
